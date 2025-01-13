@@ -15,6 +15,7 @@ int currentMole = -1;
 int value = 0;
 int a = 1;
 int delayer = 2;
+int banana = 0;
 bool running = true;
 int high_score = 0;
 
